@@ -1,5 +1,5 @@
-# React Project
+# React+Vite Project
 
-This project help me to understand how frontend works
-
-this project use: React.Js, Vite, TailwindCSS
+This project is based from
+- youtube tutorial: https://www.youtube.com/watch?v=B91wc5dCEBA&t=10850s
+- Original repo: https://github.com/adrianhajdin/brainwave
